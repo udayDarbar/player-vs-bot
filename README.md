@@ -2,7 +2,7 @@
 
 ## Overview
 
-Player vs Bot is a Unity 3D game developed in C#. This project demonstrates basic game development concepts, including player movement and AI behavior.
+Player vs Bot is a Unity 3D game developed in C#. This project demonstrates basic game development concepts, including player movement and NPC behavior.
 
 ## Features
 
